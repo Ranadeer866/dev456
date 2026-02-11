@@ -1,4 +1,6 @@
-<!---
+POM stands for Project Object Model. The pom.xml file is the core configuration file of a Maven project. It defines project metadata, dependencies, plugins, and build configurations required to compile, test, package, and deploy the application.
+
+A properly structured POM file ensures consistent builds and dependency management across environments.<!---
  Licensed to the Apache Software Foundation (ASF) under one or more
  contributor license agreements.  See the NOTICE file distributed with
  this work for additional information regarding copyright ownership.
